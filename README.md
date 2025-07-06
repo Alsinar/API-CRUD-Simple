@@ -31,3 +31,7 @@ Uma API RESTful desenvolvida com Node.js, Express e MongoDB para gerenciar produ
 ```bash
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
 cd nome-do-repositorio
+
+```bash
+Instale as dependências
+
