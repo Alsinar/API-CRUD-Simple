@@ -1,4 +1,3 @@
-# API-CRUD-Simple
 # 🛒 API de Gestão de Produtos
 
 Uma API RESTful desenvolvida com Node.js, Express e MongoDB para gerenciar produtos. Permite criar, listar, atualizar e deletar produtos de forma simples e eficiente.
@@ -17,17 +16,17 @@ Uma API RESTful desenvolvida com Node.js, Express e MongoDB para gerenciar produ
 
 ## 🧱 Tecnologias Utilizadas
 
-- [Node.js](https://nodejs.org/)
-- [Express](https://expressjs.com/)
-- [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
-- [Mongoose](https://mongoosejs.com/)
-- [dotenv](https://www.npmjs.com/package/dotenv)
+- Node.js
+- Express
+- MongoDB Atlas
+- Mongoose
+- dotenv
 
 ---
 
 ## 📦 Instalação
 
-1. **Clone o repositório:**
+1. Clone o repositório:
 
 ```bash
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
