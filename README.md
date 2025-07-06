@@ -101,4 +101,4 @@ Uma API RESTful desenvolvida com Node.js, Express e MongoDB para gerenciar produ
 
 ## ✍️ Autor
 
-Desenvolvido por **Alsinar** — Desenvolvedor web backend PHP (Laravel) | JavaScript (Node.js) | Mysql | PostgreSQL 
+Desenvolvido por **Alsinar** — Desenvolvedor web backend
